@@ -18,10 +18,10 @@ pagina = st.sidebar.radio("Ir para:", ["🏠 Predição", "📊 Dashboard"])
 # =====================================
 # CARREGAR MODELO E ENCODERS
 # =====================================
-modelo = joblib.load("C:/Users/phill/projetos/TECH4/knn_pipeline.pkl")
-le_freq = joblib.load("C:/Users/phill/projetos/TECH4/encoder_frequencia.joblib")
-le_comida = joblib.load("C:/Users/phill/projetos/TECH4/encoder_comida.joblib")
-le_obesidade = joblib.load("C:/Users/phill/projetos/TECH4/encoder_obesidade.joblib")
+modelo = joblib.load("knn_pipeline.pkl")
+le_freq = joblib.load("encoder_frequencia.joblib")
+le_comida = joblib.load("encoder_comida.joblib")
+le_obesidade = joblib.load("encoder_obesidade.joblib")
 
 # =====================================
 # PÁGINA 1 – PREVISÃO
@@ -70,7 +70,7 @@ elif pagina == "📊 Dashboard":
     st.title("📊 Dashboard Analítico - Obesidade")
 
     # Carregar dataset transformado
-    df = pd.read_csv("C:/Users/phill/projetos/TECH4/dados_transformados.csv")
+    df = pd.read_csv("dados_transformados.csv")
 
     # Barra lateral - filtros
     st.sidebar.subheader("Filtros")
