@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/707263113219561660/fe183ddb7b68454cbbcca3a7f53aad17/artifacts
+end_time: 1759725929676
+entry_point_name: ''
+experiment_id: '707263113219561660'
+lifecycle_stage: active
+run_id: fe183ddb7b68454cbbcca3a7f53aad17
+run_name: caring-kite-387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759725912203
+status: 3
+tags: []
+user_id: phill

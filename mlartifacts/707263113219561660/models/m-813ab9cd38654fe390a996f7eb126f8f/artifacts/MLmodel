@@ -1,0 +1,38 @@
+artifact_path: mlflow-artifacts:/707263113219561660/models/m-813ab9cd38654fe390a996f7eb126f8f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+is_signature_from_type_hint: false
+mlflow_version: 3.4.0
+model_id: m-813ab9cd38654fe390a996f7eb126f8f
+model_size_bytes: 50910
+model_uuid: m-813ab9cd38654fe390a996f7eb126f8f
+prompts: null
+run_id: f217f72d434e43eaa16bfdf78b56ca95
+signature:
+  inputs: '[{"type": "double", "name": "Age", "required": false}, {"type": "double",
+    "name": "Height", "required": false}, {"type": "double", "name": "Weight", "required":
+    false}, {"type": "double", "name": "family_history", "required": false}, {"type":
+    "double", "name": "FAVC", "required": false}, {"type": "double", "name": "FCVC",
+    "required": false}, {"type": "double", "name": "NCP", "required": false}, {"type":
+    "double", "name": "CAEC", "required": false}, {"type": "double", "name": "SMOKE",
+    "required": false}, {"type": "double", "name": "CH2O", "required": false}, {"type":
+    "double", "name": "SCC", "required": false}, {"type": "double", "name": "FAF",
+    "required": false}, {"type": "double", "name": "TUE", "required": false}, {"type":
+    "double", "name": "CALC", "required": false}, {"type": "double", "name": "MTRANS",
+    "required": false}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-10-06 04:34:35.070497'

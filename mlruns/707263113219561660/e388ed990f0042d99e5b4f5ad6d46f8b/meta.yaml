@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/707263113219561660/e388ed990f0042d99e5b4f5ad6d46f8b/artifacts
+deleted_time: 1759725429793
+end_time: 1759724880540
+entry_point_name: ''
+experiment_id: '707263113219561660'
+lifecycle_stage: deleted
+run_id: e388ed990f0042d99e5b4f5ad6d46f8b
+run_name: melodic-bat-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759724826543
+status: 4
+tags: []
+user_id: phill

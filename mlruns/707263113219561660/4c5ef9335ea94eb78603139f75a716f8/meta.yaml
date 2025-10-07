@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/707263113219561660/4c5ef9335ea94eb78603139f75a716f8/artifacts
+end_time: 1759726246412
+entry_point_name: ''
+experiment_id: '707263113219561660'
+lifecycle_stage: active
+run_id: 4c5ef9335ea94eb78603139f75a716f8
+run_name: righteous-shoat-270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759726231987
+status: 3
+tags: []
+user_id: phill

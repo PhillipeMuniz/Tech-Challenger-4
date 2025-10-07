@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/707263113219561660/ae028876dd884a22b0f1c956ac2c77ad/artifacts
+end_time: 1759725929676
+entry_point_name: ''
+experiment_id: '707263113219561660'
+lifecycle_stage: active
+run_id: ae028876dd884a22b0f1c956ac2c77ad
+run_name: crawling-shark-320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759725912203
+status: 3
+tags: []
+user_id: phill

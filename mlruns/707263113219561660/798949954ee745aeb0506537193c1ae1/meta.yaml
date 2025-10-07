@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/707263113219561660/798949954ee745aeb0506537193c1ae1/artifacts
+end_time: 1759725912056
+entry_point_name: ''
+experiment_id: '707263113219561660'
+lifecycle_stage: active
+run_id: 798949954ee745aeb0506537193c1ae1
+run_name: lyrical-fly-927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759725909044
+status: 3
+tags: []
+user_id: phill

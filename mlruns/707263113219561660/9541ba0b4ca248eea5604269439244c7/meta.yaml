@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/707263113219561660/9541ba0b4ca248eea5604269439244c7/artifacts
+end_time: 1759726556960
+entry_point_name: ''
+experiment_id: '707263113219561660'
+lifecycle_stage: active
+run_id: 9541ba0b4ca248eea5604269439244c7
+run_name: smiling-koi-99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759726544812
+status: 3
+tags: []
+user_id: phill

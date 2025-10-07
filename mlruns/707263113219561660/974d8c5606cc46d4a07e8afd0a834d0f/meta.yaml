@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/707263113219561660/974d8c5606cc46d4a07e8afd0a834d0f/artifacts
+end_time: 1759726556960
+entry_point_name: ''
+experiment_id: '707263113219561660'
+lifecycle_stage: active
+run_id: 974d8c5606cc46d4a07e8afd0a834d0f
+run_name: big-grub-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759726544812
+status: 3
+tags: []
+user_id: phill

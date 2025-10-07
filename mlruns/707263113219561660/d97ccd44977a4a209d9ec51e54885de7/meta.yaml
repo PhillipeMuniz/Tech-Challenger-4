@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/707263113219561660/d97ccd44977a4a209d9ec51e54885de7/artifacts
+end_time: 1759726161866
+entry_point_name: ''
+experiment_id: '707263113219561660'
+lifecycle_stage: active
+run_id: d97ccd44977a4a209d9ec51e54885de7
+run_name: adorable-snipe-337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759725912203
+status: 3
+tags: []
+user_id: phill

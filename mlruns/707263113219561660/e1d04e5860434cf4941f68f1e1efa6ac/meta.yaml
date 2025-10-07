@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/707263113219561660/e1d04e5860434cf4941f68f1e1efa6ac/artifacts
+deleted_time: 1759725429792
+end_time: 1759724927639
+entry_point_name: ''
+experiment_id: '707263113219561660'
+lifecycle_stage: deleted
+run_id: e1d04e5860434cf4941f68f1e1efa6ac
+run_name: rebellious-duck-464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759724924082
+status: 3
+tags: []
+user_id: phill

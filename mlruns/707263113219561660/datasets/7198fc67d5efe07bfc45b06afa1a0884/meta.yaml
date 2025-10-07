@@ -1,0 +1,17 @@
+digest: 6e6b572f
+name: dataset
+profile: '{"num_rows": 634, "num_elements": 9510}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "Age", "required": false},
+  {"type": "double", "name": "Height", "required": false}, {"type": "double", "name":
+  "Weight", "required": false}, {"type": "double", "name": "family_history", "required":
+  false}, {"type": "double", "name": "FAVC", "required": false}, {"type": "double",
+  "name": "FCVC", "required": false}, {"type": "double", "name": "NCP", "required":
+  false}, {"type": "double", "name": "CAEC", "required": false}, {"type": "double",
+  "name": "SMOKE", "required": false}, {"type": "double", "name": "CH2O", "required":
+  false}, {"type": "double", "name": "SCC", "required": false}, {"type": "double",
+  "name": "FAF", "required": false}, {"type": "double", "name": "TUE", "required":
+  false}, {"type": "double", "name": "CALC", "required": false}, {"type": "double",
+  "name": "MTRANS", "required": false}]}'
+source: '{"tags": {"mlflow.user": "phill", "mlflow.source.name": "c:\\Users\\phill\\projetos\\Tech4\\venv\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

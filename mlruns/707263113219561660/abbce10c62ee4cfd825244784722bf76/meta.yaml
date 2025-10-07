@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/707263113219561660/abbce10c62ee4cfd825244784722bf76/artifacts
+end_time: 1759726246412
+entry_point_name: ''
+experiment_id: '707263113219561660'
+lifecycle_stage: active
+run_id: abbce10c62ee4cfd825244784722bf76
+run_name: caring-slug-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759726231987
+status: 3
+tags: []
+user_id: phill

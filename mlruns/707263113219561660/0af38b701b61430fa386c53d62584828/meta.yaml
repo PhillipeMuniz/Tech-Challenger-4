@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/707263113219561660/0af38b701b61430fa386c53d62584828/artifacts
+end_time: 1759726246412
+entry_point_name: ''
+experiment_id: '707263113219561660'
+lifecycle_stage: active
+run_id: 0af38b701b61430fa386c53d62584828
+run_name: clumsy-gnu-743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759726231987
+status: 3
+tags: []
+user_id: phill

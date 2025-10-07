@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/707263113219561660/f217f72d434e43eaa16bfdf78b56ca95/artifacts
+end_time: 1759725282399
+entry_point_name: ''
+experiment_id: '707263113219561660'
+lifecycle_stage: active
+run_id: f217f72d434e43eaa16bfdf78b56ca95
+run_name: worried-frog-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759724927788
+status: 3
+tags: []
+user_id: phill

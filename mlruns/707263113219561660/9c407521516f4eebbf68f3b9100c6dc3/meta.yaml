@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/707263113219561660/9c407521516f4eebbf68f3b9100c6dc3/artifacts
+end_time: 1759726231846
+entry_point_name: ''
+experiment_id: '707263113219561660'
+lifecycle_stage: active
+run_id: 9c407521516f4eebbf68f3b9100c6dc3
+run_name: monumental-grub-912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759726228826
+status: 3
+tags: []
+user_id: phill

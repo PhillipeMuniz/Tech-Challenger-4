@@ -1,0 +1,1 @@
+{'max_depth': [3, 5, 7, 10], 'min_samples_split': [10, 20, 30], 'min_samples_leaf': [10, 15, 20], 'criterion': ['gini', 'entropy', 'log_loss']}

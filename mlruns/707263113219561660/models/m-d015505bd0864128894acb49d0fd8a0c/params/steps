@@ -1,0 +1,4 @@
+[('Grid', GridSearchCV(estimator=RandomForestClassifier(n_jobs=2, random_state=42),
+             param_grid={'criterion': ['entropy'], 'min_samples_leaf': [15],
+                         'n_estimators': [1000]},
+             scoring='roc_auc', verbose=4))]

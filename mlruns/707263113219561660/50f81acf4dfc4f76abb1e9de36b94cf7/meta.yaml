@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/707263113219561660/50f81acf4dfc4f76abb1e9de36b94cf7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '707263113219561660'
+lifecycle_stage: active
+run_id: 50f81acf4dfc4f76abb1e9de36b94cf7
+run_name: peaceful-seal-327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759726231987
+status: 1
+tags: []
+user_id: phill

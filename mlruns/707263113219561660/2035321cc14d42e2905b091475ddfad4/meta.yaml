@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/707263113219561660/2035321cc14d42e2905b091475ddfad4/artifacts
+end_time: 1759726556960
+entry_point_name: ''
+experiment_id: '707263113219561660'
+lifecycle_stage: active
+run_id: 2035321cc14d42e2905b091475ddfad4
+run_name: enchanting-wren-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759726544812
+status: 3
+tags: []
+user_id: phill

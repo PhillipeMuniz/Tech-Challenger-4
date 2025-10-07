@@ -1,0 +1,8 @@
+artifact_location: mlflow-artifacts:/0
+creation_time: 1759724079639
+experiment_id: '0'
+last_update_time: 1759724150474
+lifecycle_stage: active
+name: TECH4
+tags:
+  mlflow.experimentKind: custom_model_development

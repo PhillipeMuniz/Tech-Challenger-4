@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/707263113219561660/27a1852a7eac455c8e91fa45461ad405/artifacts
+end_time: 1759725929676
+entry_point_name: ''
+experiment_id: '707263113219561660'
+lifecycle_stage: active
+run_id: 27a1852a7eac455c8e91fa45461ad405
+run_name: stately-mare-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759725912203
+status: 3
+tags: []
+user_id: phill
